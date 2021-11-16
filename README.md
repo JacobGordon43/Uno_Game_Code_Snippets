@@ -26,5 +26,13 @@ If the next player is not low on cards, then the current player will try to not 
 - wild card (This ensures that they save a wild card for when they have no cards that match the value or color of the current card)
 - +4 (Like the wild card, this is saved last in case they have no cards left and so that if the next player is low, they have this one saved)
 
+## Functionality 
+The following functionality were implemented in the Uno game
+- All major card funcitonality (+4/+2, changing the color of a card, etc.)
+- Matching cards based off of color and/or value
+- Calculating the next player based off of the flow of the game
+- Calculating which color has the most cards in a player's hand
+- Distributing the deck/cards out to players
+- 
 ## Concepts Demonstrated
 The Uno games demonstrates encapsulation and HAS-A relationships. Both the deck and player has cards, demonstrating an aggregation relationship with the player (the player can exist without the cards), while the deck has a composition relationship (the deck needs cards to be itself).
