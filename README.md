@@ -33,6 +33,6 @@ The following functionality were implemented in the Uno game
 - Calculating the next player based off of the flow of the game
 - Calculating which color has the most cards in a player's hand
 - Distributing the deck/cards out to players
-- 
+
 ## Concepts Demonstrated
 The Uno games demonstrates encapsulation and HAS-A relationships. Both the deck and player has cards, demonstrating an aggregation relationship with the player (the player can exist without the cards), while the deck has a composition relationship (the deck needs cards to be itself).
