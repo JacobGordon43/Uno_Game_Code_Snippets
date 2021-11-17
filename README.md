@@ -1,6 +1,6 @@
 # Uno_Game_Code_Snippets
 ## Disclaimer
-The contents of this repository hold code snippets of an Uno Game milestone done in Java. In a separate folder is snippets of certain functionality running, such as a +4 being placed down, reversing the flow of the game, etc. Due to GCU policy, I can not create public GIT repositories for milestones/assignents. If you would like to see the full code, please contact me at jacobg43@cox.net. The content below is from the readme.md from the Uno Game repository, which explains the milestone more in depth.
+Due to GCU policy, I can not create public GIT repositories for milestones/assignents. If you would like to see the full code, please contact me at jacobg43@cox.net. The content below is from the readme.md from the Uno Game repository, which explains the milestone more in depth. However, the contents of this repository hold code snippets of Java Uno Game milestone. The two folders provided contain snippets of the code and of the running application. This includes its functionalities, such as a +4 being placed down, reversing the flow of the game, etc. 
  
  ## Dates of Importance
 The Milestone creation took place from January - April, 2021.
